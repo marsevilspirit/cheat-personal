@@ -1,5 +1,5 @@
 # copy 一个文件
-cp <to> <from>
+cp <from> <to>
 
 # To copy a directory:
 cp -r ~/Desktop/cruise_pics/ ~/Pictures/
